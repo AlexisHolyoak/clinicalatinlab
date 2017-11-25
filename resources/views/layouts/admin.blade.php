@@ -16,7 +16,10 @@
     <body class="nav-md">
       <div class="container body">
         <div class="main_container">
-            @include('sections.header')
+          @section('header')
+            @include('layouts.header')
+            @include('layouts.navigation')
+          @show
           <div class="right_col" role="main">
             <div class="page-title">
               <div class="title_left" >
@@ -27,7 +30,7 @@
           </div>
         </div>
         <footer>
-            @include('sections.footer')
+            @include('layouts.footer')
         </footer>
       </div>
         @include('layouts.script')
