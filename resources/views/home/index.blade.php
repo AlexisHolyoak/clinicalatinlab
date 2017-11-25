@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('title','Inicio')
-@stop
+@endsection
 @section('content')
 <h1>aloha</h1>
 @endsection
