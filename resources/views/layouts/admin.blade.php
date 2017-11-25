@@ -9,7 +9,7 @@
         <!--Title-->
         <title>Clinica Latin Lab</title>
         <!--Tab icon-->
-        <link rel="icon" type="image/png" href="{{ asset('images/favicon.png') }}" />
+        <link rel="icon" type="image/png" href="#" />
         <!---Styles-->
         @include('layouts.style')
     </head>

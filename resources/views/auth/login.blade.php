@@ -7,10 +7,7 @@
       <section class="login_content">
         <form action="{{ route('login') }}" method="post" data-parsley-validate novalidate>
           {{ csrf_field() }}
-          <h1>
-            ::before
-            Iniciar Sesion
-            ::after</h1>
+          <h1>Iniciar Sesion</h1>
           <div>
             <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}"
               placeholder="correo electronico" data-parsley-trigger="changed" required autofocus>
