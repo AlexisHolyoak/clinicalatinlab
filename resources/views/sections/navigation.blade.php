@@ -2,7 +2,7 @@
     <div class="left_col scroll-view">
         <div class="navbar nav_title" style="border: 0;">
             <a href="#" class="site_title"><i class="fa fa-flask"></i>
-                <span>{{ config('app.name') }}</span>
+                <span>ass</span>
             </a>
         </div>
 
