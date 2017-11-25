@@ -16,10 +16,8 @@
     <body class="nav-md">
       <div class="container body">
         <div class="main_container">
-          @section('header')
             @include('sections.navigation')
-            @include('sections.header')
-          @show
+            @include('sections.header')          
           <div class="right_col" role="main">
             <div class="page-title">
               <div class="title_left" >
