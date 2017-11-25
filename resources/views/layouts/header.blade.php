@@ -18,7 +18,7 @@
                           <a href="#">Perfil</a>
                         </li>
                         <li>
-                            <a href="{{ route('logout') }}"  onclick="event.preventDefault();
+                            <a href="#"  onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                 <i class="fa fa-sign-out pull-right"></i>Cerrar Sesión
                             </a>
