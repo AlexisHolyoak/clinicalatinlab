@@ -8,5 +8,6 @@
 <link href="{{ asset('css/custom.min.css') }}" rel="stylesheet">
 <!-- bootstrap-progressbar -->
 <link href="{{ asset('bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css')}}" rel="stylesheet">
-
+<!--Custom-->
+<link href="{{ asset('nprogress/nprogress.css') }}" rel="stylesheet">
 @yield('styles')
