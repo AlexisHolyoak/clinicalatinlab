@@ -153,7 +153,7 @@
           <div class="right_col" role="main">
             <div class="page-title">
               <div class="title_left" >
-                <h1 class="h3">@yield('title')</h1>
+                <h1 class="h3">dick</h1>
               </div>
             </div>
             @yield('content')
