@@ -16,7 +16,7 @@
     <body class="nav-md">
       <div class="container body">
         <div class="main_container">
-          @section
+          @section('header')
             @include('sections.navigation')
             @include('sections.header')
           @show
