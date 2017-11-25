@@ -12,7 +12,7 @@
         <div class="profile clearfix">
             <div class="profile_pic">
                 <!--<img src="{{ auth()->user()->avatar }}" alt="..." class="img-circle profile_img">-->
-                <img src="" alt="..." class="img-circle profile_img">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" alt="..." class="img-circle profile_img">
             </div>
             <div class="profile_info">
                 <!--<h2>{{ auth()->user()->name }}</h2>-->
